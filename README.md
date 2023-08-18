@@ -1,5 +1,5 @@
 # flutter-01-IAmRich
-
+  > Create a flutter project and paste these files and folders in their respective places
 - An app which has an appbar saying I Am Rich
 - an image from the assets/images folder
 - having details of how to change the app-icon in android and ios devices.
