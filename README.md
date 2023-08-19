@@ -22,5 +22,6 @@
   - goto `https://www.appicon.co/` and download your icon
   - go inside ios/Runner/
   - replace `Assets.xcassets` folder with downloaded one
-
+# The App
+![](https://github.com/Rahullkumr/flutter-01-IAmRich/blob/main/iamrich.jpg)
 
