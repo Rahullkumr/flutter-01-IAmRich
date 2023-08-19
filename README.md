@@ -6,7 +6,7 @@
 - an image from the assets/images folder
 - having details of how to change the app-icon in android and ios devices.
 
-# use Image inside the Scaffold:
+## use Image inside the Scaffold:
 
 1. NetworkImage ('imageLink'): from the internet 
 
@@ -15,7 +15,7 @@
   - then, `flutter pub get` will automatically run(if not, run it manually)
   - add `AssetImage('images/imageName.extension')` to your code
 
-# Custom app icon
+## Custom app icon
 1. for Android devices
   - goto `https://www.appicon.co/` and download your icon
   - go inside android/app/src/main/res/
@@ -24,6 +24,6 @@
   - goto `https://www.appicon.co/` and download your icon
   - go inside ios/Runner/
   - replace `Assets.xcassets` folder with downloaded one
-# The App
+## The App
 ![](https://github.com/Rahullkumr/flutter-01-IAmRich/blob/main/iamrich.jpg)
 
