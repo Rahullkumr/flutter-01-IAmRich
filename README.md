@@ -1,4 +1,4 @@
-# Flutter ❤
+<h1 align=center>Flutter ❤</h1>
 
 ## flutter-01-IAmRich
   > Create a flutter project and paste these files and folders in their respective places
