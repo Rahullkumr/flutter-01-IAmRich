@@ -15,7 +15,7 @@
   - then, `flutter pub get` will automatically run(if not, run it manually)
   - add `AssetImage('images/imageName.extension')` to your code
 
-## Custom app icon
+## Custom app icons
 1. for Android devices
   - goto `https://www.appicon.co/` and download your icon
   - go inside android/app/src/main/res/
