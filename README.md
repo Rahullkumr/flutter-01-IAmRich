@@ -1,7 +1,11 @@
 <h1 align=center>Flutter ❤</h1>
 
 ## flutter-01-IAmRich
-  > Create a flutter project and paste these files and folders in their respective places
+  > Create a flutter project and paste the files and folders in this repository in their respective places
+
+## The App
+![](./iamrich.jpg)
+
 - An app which has an appbar saying I Am Rich
 - an image from the assets/images folder
 - having details of how to change the app-icon in android and ios devices.
@@ -24,6 +28,5 @@
   - goto `https://www.appicon.co/` and download your icon
   - go inside ios/Runner/
   - replace `Assets.xcassets` folder with downloaded one
-## The App
-![](https://github.com/Rahullkumr/flutter-01-IAmRich/blob/main/iamrich.jpg)
+
 
