@@ -1,16 +1,3 @@
-<h1 align=center>Flutter ❤</h1>
-
-## All Flutter Projects
-
-> Run any Flutter repository on Zapp website: <a href="https://zapp.run/assets/homepage/import-github.gif">refer this link </a>
-
-| SN | Project Name | Link |
-| :---: | :--- | :---: |
-|0|Hello World|[Let's Go](https://github.com/Rahullkumr/flutter-00-helloWorld)|
-|1|I am Rich|[Let's Go](https://github.com/Rahullkumr/flutter-01-IAmRich)|
-|2|My Card|[Let's Go](https://github.com/Rahullkumr/flutter-02-MyCard)|
-|3|Dicee|[Let's Go](https://github.com/Rahullkumr/flutter-03-Dicee)|
-
 ## flutter-01-IAmRich
   > Create a flutter project and paste the files and folders in this repository in their respective places
 
@@ -40,4 +27,8 @@
   - go inside ios/Runner/
   - replace `Assets.xcassets` folder with downloaded one
 
+-----
 
+Run any Flutter repository on Zapp website: <a href="https://zapp.run/assets/homepage/import-github.gif">refer this link </a>
+
+List of all Flutter apps: <a href="https://github.com/Rahullkumr/Flutter-Projects-List">click here</a>
