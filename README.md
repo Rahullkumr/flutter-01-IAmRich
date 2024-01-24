@@ -1,5 +1,27 @@
-## flutter-01-IAmRich
-  > Create a flutter project and paste the files and folders in this repository in their respective places
+<h1 align="center"> flutter-01-IAmRich </h1>
+
+## What is MaterialApp() ?
+
+- Material Design is a Google created design pattern. [know more](https://m3.material.io/)
+- Flutter uses Material Design for the apps.
+- So, MaterialApp() widget acts as the root widget for containing all other widgets within it.
+- Common properties:
+  - title:
+  - home:
+  - routes:
+  - theme:
+  - debugShowCheckedModeBanner
+
+## What is Scaffold() ?
+
+- implements the `basic` material design visual `layout structure`.
+- Layout structure:
+  - appBar:
+  - body:
+  - floatingActionButton:
+  - drawer:
+  - bottomNavigationBar:
+  - backgroundColor:
 
 ## The App
 ![](./iamrich.jpg)
@@ -8,7 +30,7 @@
 - an image from the assets/images folder
 - having details of how to change the app-icon in android and ios devices.
 
-## use Image inside the Scaffold:
+## How to use Image inside Scaffold ?
 
 1. NetworkImage ('imageLink'): from the internet 
 
